@@ -1,11 +1,11 @@
 # Project Structure
 
-Understanding how Luna402 is organized will help you navigate, modify, and extend the codebase.
+Understanding how necrona is organized will help you navigate, modify, and extend the codebase.
 
 ## Directory Overview
 
 ```
-luna402/
+Necrona/
 ├── app/                          # Next.js App Router directory
 │   ├── api/                      # API routes
 │   │   └── chat/
@@ -46,7 +46,7 @@ import { JetBrains_Mono } from 'next/font/google';
 import './globals.css';
 
 export const metadata = {
-  title: 'Luna402 - AI-Powered Crypto Intelligence',
+  title: 'Necrona - AI-Powered Crypto Intelligence',
   description: 'Get AI-powered insights...',
 };
 
@@ -165,7 +165,7 @@ Global styles including Tailwind imports and custom CSS.
 
 ## Next.js App Router
 
-Luna402 uses Next.js 16's App Router architecture:
+Necrona uses Next.js 16's App Router architecture:
 
 ### File-Based Routing
 
@@ -232,7 +232,7 @@ Start countdown timer
 
 ### Global State
 
-Luna402 uses React hooks for state management:
+Necrona uses React hooks for state management:
 
 - `useState` - Local component state
 - `useEffect` - Side effects (timers, localStorage)
@@ -383,4 +383,5 @@ Where to add new features:
 
 ---
 
-**Questions?** Check the [FAQ](../appendix/faq.md) or [join our Discord](https://discord.gg/luna402).
+
+
