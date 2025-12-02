@@ -1,0 +1,51 @@
+{
+  "name": "necrona401",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Necrona Labs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "format": "prettier --write \"**/*.{js,jsx,mjs,cjs,ts,tsx,json,css,md}\"",
+    "format:check": "prettier --check \"**/*.{js,jsx,mjs,cjs,ts,tsx,json,css,md}\"",
+    "lint:all": "npm run lint && npm run format:check",
+    "fix:all": "npm run lint:fix && npm run format"
+  },
+  "keywords": [],
+  "author": "necronalabs@g",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/google": "^2.0.44",
+    "@ai-sdk/react": "^2.0.106",
+    "@solana/wallet-adapter-base": "^0.9.27",
+    "@solana/wallet-adapter-react": "^0.15.39",
+    "@solana/wallet-adapter-react-ui": "^0.9.39",
+    "@solana/wallet-adapter-wallets": "^0.19.37",
+    "@solana/web3.js": "^1.98.4",
+    "@tailwindcss/typography": "^0.5.19",
+    "ai": "^5.0.106",
+    "framer-motion": "^12.23.25",
+    "lucide-react": "^0.555.0",
+    "next": "^16.0.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "@typescript-eslint/eslint-plugin": "^8.48.1",
+    "@typescript-eslint/parser": "^8.48.1",
+    "eslint": "^9.39.1",
+    "eslint-config-next": "^16.0.6",
+    "eslint-plugin-prettier": "^5.5.4",
+    "prettier": "^3.7.3",
+    "prettier-plugin-tailwindcss": "^0.7.2",
+    "tailwindcss": "^4.1.17"
+  }
+}
