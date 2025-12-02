@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
 /**
  * @title ServiceRegistry
- * @dev Registry for x402 services that Luna402 can discover and use
+ * @dev Registry for x402 services that NecronaLabs ($NECRONA) agents can discover and use
  * Allows service providers to register their APIs and pricing
  */
 contract ServiceRegistry is Ownable, ReentrancyGuard {
