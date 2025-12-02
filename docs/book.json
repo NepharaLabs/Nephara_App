@@ -1,0 +1,63 @@
+{
+  "title": "Luna402 Documentation",
+  "description": "Complete documentation for Luna402 - AI-Powered Crypto Intelligence Platform",
+  "author": "Luna402 Team",
+  "language": "en",
+  "gitbook": ">=3.2.0",
+  "root": ".",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "theme-default",
+    "search",
+    "fontsettings",
+    "sharing",
+    "github",
+    "edit-link",
+    "copy-code-button",
+    "expandable-chapters",
+    "anchor-navigation-ex",
+    "prism",
+    "-highlight"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/Luna402-xyz/Luna402"
+    },
+    "edit-link": {
+      "base": "https://github.com/Luna402-xyz/Luna402/edit/main/docs",
+      "label": "Edit This Page"
+    },
+    "sharing": {
+      "facebook": false,
+      "twitter": true,
+      "google": false,
+      "linkedin": false,
+      "all": ["twitter"]
+    },
+    "fontsettings": {
+      "theme": "night",
+      "family": "sans",
+      "size": 2
+    },
+    "prism": {
+      "css": ["prism-themes/themes/prism-ghcolors.css"]
+    },
+    "theme-default": {
+      "showLevel": true,
+      "styles": {
+        "website": "styles/website.css"
+      }
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "variables": {
+    "appName": "Luna402",
+    "version": "0.1.0",
+    "repository": "https://github.com/Luna402-xyz/Luna402"
+  }
+}

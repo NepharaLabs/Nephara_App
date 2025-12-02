@@ -1,0 +1,500 @@
+@import 'tailwindcss';
+
+:root {
+  --background: #0a0118;
+  --foreground: #e5e7eb;
+  --primary-purple: #7040BE;
+  --primary-bright: #9060D0;
+  --primary-light: #B080E0;
+  --primary-dark: #5030A0;
+  --accent-purple: #7040BE;
+  --text-purple: #7040BE;
+  --text-light: #e5e7eb;
+  --text-muted: #d1d5db;
+  --bg-dark: #0a0118;
+  --bg-darker: #1a0a2e;
+  --bg-card: rgba(112, 64, 190, 0.1);
+  --bg-elevated: rgba(112, 64, 190, 0.2);
+  --border-light: rgba(112, 64, 190, 0.2);
+  --border-purple: rgba(112, 64, 190, 0.3);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-bitcount);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    var(--font-inter),
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
+  background: linear-gradient(to bottom right, #0a0118, #1a0a2e, #0a0118);
+}
+
+/* Bitcount Grid Single for main hero heading and branding - will be applied via className */
+.font-bitcount {
+  font-family: 'Bitcount Grid Single', var(--font-bitcount), monospace;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+/* Selection styling */
+::selection {
+  background-color: rgba(112, 64, 190, 0.3);
+  color: #B080E0;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Glow animation for special elements */
+@keyframes glow {
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(112, 64, 190, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(112, 64, 190, 0.5);
+  }
+}
+
+/* Markdown styles for chat messages */
+.markdown-content {
+  line-height: 1.6;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4,
+.markdown-content h5,
+.markdown-content h6 {
+  color: #7040BE;
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-content h1 {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.markdown-content h2 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.markdown-content h3 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.markdown-content p {
+  margin-bottom: 1em;
+  color: #e5e7eb;
+}
+
+.markdown-content strong {
+  color: #7040BE;
+  font-weight: 700;
+}
+
+.markdown-content em {
+  color: #e5e7eb;
+  font-style: italic;
+}
+
+.markdown-content a {
+  color: #7040BE;
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+.markdown-content a:hover {
+  color: #9060D0;
+}
+
+.markdown-content code {
+  background-color: rgba(112, 64, 190, 0.2);
+  color: #B080E0;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace;
+  font-size: 0.875em;
+}
+
+.markdown-content pre {
+  background-color: rgba(112, 64, 190, 0.1);
+  border: 1px solid rgba(112, 64, 190, 0.3);
+  border-radius: 0.375rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1em 0;
+}
+
+.markdown-content pre code {
+  background-color: transparent;
+  padding: 0;
+  color: #e5e7eb;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+  color: #e5e7eb;
+}
+
+.markdown-content li {
+  margin-bottom: 0.5em;
+}
+
+.markdown-content ul {
+  list-style-type: disc;
+}
+
+.markdown-content ol {
+  list-style-type: decimal;
+}
+
+.markdown-content blockquote {
+  border-left: 4px solid #7040BE;
+  padding-left: 1rem;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: #d1d5db;
+  font-style: italic;
+}
+
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+.markdown-content th,
+.markdown-content td {
+  border: 1px solid rgba(112, 64, 190, 0.3);
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.markdown-content th {
+  background-color: rgba(112, 64, 190, 0.2);
+  color: #B080E0;
+  font-weight: 700;
+}
+
+.markdown-content td {
+  color: #e5e7eb;
+}
+
+.markdown-content hr {
+  border: none;
+  border-top: 1px solid rgba(112, 64, 190, 0.3);
+  margin: 2em 0;
+}
+
+/* Wallet adapter button custom styling */
+.wallet-adapter-button {
+  background: linear-gradient(135deg, #7040BE 0%, #9060D0 100%) !important;
+  color: white !important;
+  border-radius: 0 !important;
+  font-weight: 600 !important;
+  transition: all 0.3s !important;
+}
+
+.wallet-adapter-button:not([disabled]):hover {
+  box-shadow: 0 0 20px rgba(112, 64, 190, 0.4) !important;
+  transform: translateY(-1px);
+}
+
+.wallet-adapter-button-trigger {
+  background: linear-gradient(135deg, #7040BE 0%, #9060D0 100%) !important;
+  color: white !important;
+  border-radius: 0 !important;
+}
+
+/* Dark purple theme for wallet modal */
+.wallet-adapter-modal-wrapper {
+  background: var(--bg-darker) !important;
+  box-shadow: 0px 8px 30px rgba(112, 64, 190, 0.3) !important;
+  border: 1px solid var(--border-purple) !important;
+}
+
+.wallet-adapter-modal-title {
+  color: var(--primary-light) !important;
+}
+
+.wallet-adapter-modal-list {
+  background: transparent !important;
+}
+
+.wallet-adapter-modal-list .wallet-adapter-button {
+  background: rgba(112, 64, 190, 0.1) !important;
+  border: 1px solid var(--border-purple) !important;
+  color: var(--text-light) !important;
+}
+
+.wallet-adapter-modal-list .wallet-adapter-button:not([disabled]):hover {
+  background: rgba(112, 64, 190, 0.2) !important;
+  border-color: var(--primary-bright) !important;
+  color: var(--primary-light) !important;
+  box-shadow: 0 0 15px rgba(112, 64, 190, 0.3) !important;
+  transform: none !important;
+}
+
+.wallet-adapter-modal-middle {
+  background: transparent !important;
+}
+
+.wallet-adapter-modal-middle-button {
+  background: linear-gradient(135deg, var(--primary-purple) 0%, var(--primary-bright) 100%) !important;
+  color: white !important;
+}
+
+.wallet-adapter-modal-button-close {
+  background: rgba(112, 64, 190, 0.15) !important;
+  border: 1px solid var(--border-purple) !important;
+}
+
+.wallet-adapter-modal-button-close:hover {
+  background: rgba(112, 64, 190, 0.25) !important;
+  border-color: var(--primary-bright) !important;
+}
+
+.wallet-adapter-modal-button-close svg {
+  fill: var(--text-muted) !important;
+}
+
+.wallet-adapter-modal-button-close:hover svg {
+  fill: var(--primary-light) !important;
+}
+
+.wallet-adapter-modal-list-more {
+  color: var(--primary-light) !important;
+}
+
+.wallet-adapter-modal-list-more svg {
+  fill: var(--primary-bright) !important;
+}
+
+/* Custom utility classes using CSS variables */
+.text-primary {
+  color: var(--primary-purple);
+}
+
+.text-primary-bright {
+  color: var(--primary-bright);
+}
+
+.text-primary-light {
+  color: var(--primary-light);
+}
+
+.bg-primary {
+  background-color: var(--primary-purple);
+}
+
+.bg-primary-bright {
+  background-color: var(--primary-bright);
+}
+
+.border-primary {
+  border-color: var(--primary-purple);
+}
+
+.border-primary-bright {
+  border-color: var(--primary-bright);
+}
+
+.border-primary-20 {
+  border-color: rgba(112, 64, 190, 0.2);
+}
+
+.border-primary-30 {
+  border-color: rgba(112, 64, 190, 0.3);
+}
+
+.border-primary-50 {
+  border-color: rgba(112, 64, 190, 0.5);
+}
+
+.bg-primary-10 {
+  background-color: rgba(112, 64, 190, 0.1);
+}
+
+.bg-primary-20 {
+  background-color: rgba(112, 64, 190, 0.2);
+}
+
+.bg-primary-30 {
+  background-color: rgba(112, 64, 190, 0.3);
+}
+
+.shadow-primary {
+  box-shadow: 0 0 20px rgba(112, 64, 190, 0.3);
+}
+
+.shadow-primary-lg {
+  box-shadow: 0 10px 40px rgba(112, 64, 190, 0.25);
+}
+
+.shadow-primary-xl {
+  box-shadow: 0 20px 60px rgba(112, 64, 190, 0.4);
+}
+
+.from-primary {
+  --tw-gradient-from: var(--primary-purple);
+}
+
+.to-primary-bright {
+  --tw-gradient-to: var(--primary-bright);
+}
+
+.via-primary-bright {
+  --tw-gradient-via: var(--primary-bright);
+}
+
+/* Gradient utilities */
+.bg-gradient-primary {
+  background: linear-gradient(to right, var(--primary-purple), var(--primary-bright));
+}
+
+.bg-gradient-primary-br {
+  background: linear-gradient(to bottom right, #0a0118, #1a0a2e, #0a0118);
+}
+
+.text-gradient-primary {
+  background: linear-gradient(to right, var(--primary-purple), var(--primary-bright), var(--primary-light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-gradient-dot {
+  background: linear-gradient(to bottom right, var(--primary-purple), var(--primary-bright));
+}
+
+/* Auto-scrolling logo carousel */
+.logo-scroll-container {
+  overflow: hidden;
+  width: 100%;
+  padding: 2rem 0;
+}
+
+.logo-scroll-track {
+  display: flex;
+  gap: 4rem;
+  animation: scroll-left 40s linear infinite;
+  width: max-content;
+}
+
+.logo-scroll-track:hover {
+  animation-play-state: paused;
+}
+
+.logo-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 200px;
+  height: 100px;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.logo-item:hover {
+  opacity: 1;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* 8-bit Game Style Animations */
+@keyframes scanline {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100vh);
+  }
+}
+
+@keyframes blink {
+  0%, 49% {
+    opacity: 1;
+  }
+  50%, 100% {
+    opacity: 0;
+  }
+}
+
+@keyframes pixel-pulse {
+  0%, 100% {
+    box-shadow: 0 0 5px rgba(112, 64, 190, 0.5), inset 0 0 5px rgba(112, 64, 190, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 15px rgba(112, 64, 190, 0.8), inset 0 0 10px rgba(112, 64, 190, 0.4);
+  }
+}
+
+/* 8-bit UI Elements */
+.pixel-border {
+  image-rendering: pixelated;
+  border-style: solid;
+  border-image: repeating-linear-gradient(
+    90deg,
+    #7040BE 0px, #7040BE 4px,
+    transparent 4px, transparent 8px
+  ) 4;
+}
+
+.pixel-corners {
+  position: relative;
+}
+
+.pixel-corners::before,
+.pixel-corners::after {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  image-rendering: pixelated;
+}
+
+.pixel-corners::before {
+  top: -4px;
+  left: -4px;
+  border-top: 4px solid #7040BE;
+  border-left: 4px solid #7040BE;
+}
+
+.pixel-corners::after {
+  bottom: -4px;
+  right: -4px;
+  border-bottom: 4px solid #7040BE;
+  border-right: 4px solid #7040BE;
+}
