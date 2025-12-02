@@ -1,10 +1,10 @@
 # Autonomous Payments
 
-Luna402's core feature is autonomous payment processing using the x402 protocol. This page explains how the system automatically handles payments on your behalf.
+Necrona's core feature is autonomous payment processing using the x402 protocol. This page explains how the system automatically handles payments on your behalf.
 
 ## Overview
 
-Autonomous payments allow Luna402 to:
+Autonomous payments allow Necrona to:
 
 - Detect when a service requires payment (HTTP 402)
 - Process blockchain transactions automatically
@@ -20,16 +20,16 @@ When you request access to a paid service, the flow works like this:
 ```
 You: "Get me weather data from WeatherAPI"
   ↓
-Luna402 makes HTTP request to service
+Necrona makes HTTP request to service
   ↓
 Service returns: HTTP 402 Payment Required
   ↓
-Luna402 reads x402 payment details
+necrona reads x402 payment details
 ```
 
 ### 2. Limit Verification
 
-Before processing any payment, Luna402 checks:
+Before processing any payment, Necronachecks:
 
 - **Daily Spending Limit**: Have you exceeded today's limit?
 - **Weekly Spending Limit**: Have you exceeded this week's limit?
@@ -43,7 +43,7 @@ If any limit would be exceeded, the payment is **rejected** and you're notified.
 If limits check out:
 
 ```
-1. Luna402 constructs blockchain transaction
+1. necrona constructs blockchain transaction
 2. Signs transaction with authorized wallet
 3. Submits to blockchain network
 4. Waits for confirmation (~2 seconds)
@@ -55,11 +55,11 @@ If limits check out:
 Once payment is confirmed:
 
 ```
-1. Luna402 retries original request
+1. Necrona retries original request
 2. Includes payment proof in headers
 3. Service validates payment
 4. Returns requested data
-5. Luna402 presents results to you
+5. Necrona presents results to you
 ```
 
 Total time: **~3-5 seconds** from request to delivery!
@@ -85,7 +85,7 @@ Pay with standard tokens:
 
 ### Multi-Chain Support
 
-Luna402 is blockchain agnostic:
+Necrona is blockchain agnostic:
 
 - Automatically detects required chain
 - Uses appropriate wallet connection
@@ -98,7 +98,7 @@ Here's a real-world example:
 ```
 User: "I need AI-generated images of a sunset over mountains"
 
-Luna402: "Found: Heurist Mesh AI Image Generation"
+Necrona: "Found: Heurist Mesh AI Image Generation"
          "Cost: 0.001 ETH (~$2.50)"
          "Checking spending limits..."
          "✓ Within daily limit (0.01 ETH)"
@@ -146,7 +146,7 @@ Every payment is:
 ### Non-Custodial
 
 - You control your private keys
-- Luna402 never holds your funds
+- Necrona never holds your funds
 - All transactions signed by your wallet
 - Revoke access anytime
 
@@ -172,7 +172,7 @@ Gas fees are transaction costs paid to blockchain validators:
 
 ### Gas Optimization
 
-Luna402 optimizes gas usage:
+necrona optimizes gas usage:
 
 - Estimates fees before transaction
 - Uses efficient transaction types
@@ -351,4 +351,5 @@ Action: Increase to 0.02 ETH or wait
 
 ---
 
-**Questions?** Email [support@luna402xyz.xyz](mailto:support@luna402xyz.xyz)
+
+
