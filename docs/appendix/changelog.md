@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to Luna402 will be documented in this page.
+All notable changes to NECRONA will be documented in this page.
 
 ## [0.3.0] - 2025-01-31
 
@@ -50,7 +50,6 @@ All notable changes to Luna402 will be documented in this page.
 ### Fixed
 
 - Documentation consistency issues
-- Social media links (@luna402xyzxyz)
 - Project description alignment
 
 ## [0.1.0] - 2025-01-01
@@ -162,10 +161,9 @@ See [CONTRIBUTING.md](../../CONTRIBUTING.md) for detailed guidelines.
 
 ## Stay Updated
 
-- **X**: Follow [@luna402xyzxyz](https://x.com/luna402xyzxyz) for updates
-- **Discord**: Join our [community](https://discord.gg/luna402)
-- **Website**: Check [luna402.xyz](https://luna402.xyz) for latest version
-- **GitHub**: Watch the [repository](https://github.com/Luna402-xyz/luna402)
+- **X**: Follow [@Necrona_Labs](https://x.com/Necrona_Labs) for updates
+- **Website**: Check [necronalabs.tech](https://necronalabs.tech/) for latest version
+- **GitHub**: Watch the [repository](https://github.com/NecronaLabs)
 
 ## Deprecation Notices
 
@@ -196,7 +194,6 @@ All security-related updates are marked with 🔒:
 
 **DO NOT** open public issues for security vulnerabilities.
 
-Email: security@luna402xyz.xyz
 
 We'll respond within 24 hours and work with you on disclosure.
 
@@ -212,11 +209,3 @@ Special thanks to:
 
 ---
 
-## Questions?
-
-- 📧 **General**: [support@luna402xyz.xyz](mailto:support@luna402xyz.xyz)
-- 🔒 **Security**: [security@luna402xyz.xyz](mailto:security@luna402xyz.xyz)
-- 💼 **Business**: [hello@luna402xyz.xyz](mailto:hello@luna402xyz.xyz)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Luna402-xyz/luna402/issues)
-
-_Last updated: January 31, 2025_
