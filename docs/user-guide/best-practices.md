@@ -1,16 +1,16 @@
 # Tips and Best Practices
 
-Master Luna402 and cryptocurrency analysis with these proven strategies, tips, and best practices from experienced users.
+Master NECRORA and cryptocurrency analysis with these proven strategies, tips, and best practices from experienced users.
 
 ## General Principles
 
 ### 1. Always DYOR (Do Your Own Research)
 
-Luna402 is a powerful tool, but never your only source:
+NECRORA is a powerful tool, but never your only source:
 
 ✅ **Do:**
 
-- Use Luna402 as your starting point
+- Use NECRORA as your starting point
 - Cross-reference findings with blockchain explorers
 - Check social media and community channels
 - Verify contract addresses manually
@@ -59,7 +59,7 @@ Know when to sell BEFORE you buy:
 - Cut losses at stops
 - Exit if new red flags appear
 
-## Using Luna402 Effectively
+## Using NECRORA Effectively
 
 ### Asking Better Questions
 
@@ -137,7 +137,7 @@ that compare to successful similar tokens?"
 
 ### Step 1: Initial Screening
 
-Ask Luna402:
+Ask NECRORA:
 
 ```
 "Quick risk assessment for [address]"
@@ -151,7 +151,7 @@ Ask Luna402:
 
 ### Step 2: Deep Analysis
 
-Ask Luna402:
+Ask NECRORA:
 
 ```
 "Comprehensive analysis of [address] including
@@ -202,7 +202,7 @@ contract security, and comparison to similar tokens"
 
 - Set price alerts
 - Schedule check-ins
-- Monitor Luna402 for changes
+- Monitor NECRORA for changes
 - Stay updated on project news
 - Be ready to exit
 
@@ -355,7 +355,7 @@ HIGH risk token: $10,000 × 5% / 7.5 = $67 max
 - Everyone has incentives
 - Many are paid promoters
 - Do your own research
-- Use Luna402 to verify
+- Use NECRORA to verify
 
 ## Advanced Strategies
 
@@ -400,13 +400,13 @@ Sell 25% at 20x or let it ride
 - Still exposed to upside
 - Can't lose after first target
 
-### Luna402 + Chart Combo
+### NECRORA + Chart Combo
 
 Combine AI analysis with technical analysis:
 
 **Process:**
 
-1. Use Luna402 for fundamental analysis
+1. Use NECRORA for fundamental analysis
 2. Check chart for technical setup
 3. Both must align for entry
 4. Use technical for timing, AI for validation
@@ -424,7 +424,7 @@ Track related tokens:
 **Strategy:**
 
 ```
-Ask Luna402:
+Ask NECRORA:
 "Compare these three similar tokens:
 [token A], [token B], [token C]
 Which has the best risk/reward?"
@@ -439,7 +439,7 @@ Which has the best risk/reward?"
 
 ## Tools Integration
 
-### Luna402 + Blockchain Explorer
+### NECRORA + Blockchain Explorer
 
 **Workflow:**
 
@@ -449,7 +449,7 @@ Which has the best risk/reward?"
 4. Confirm liquidity locks
 5. Review contract code
 
-### Luna402 + DexScreener
+### NECRORA + DexScreener
 
 **Workflow:**
 
@@ -459,7 +459,7 @@ Which has the best risk/reward?"
 4. Verify liquidity numbers
 5. Watch for real-time changes
 
-### Luna402 + Social Media
+### NECRORA + Social Media
 
 **Workflow:**
 
@@ -473,7 +473,7 @@ Which has the best risk/reward?"
 
 ### Morning Check (10 minutes)
 
-1. Check portfolio on Luna402
+1. Check portfolio on NECRORA
 2. Any risk score changes?
 3. New red flags appeared?
 4. Set watchlist for day
@@ -499,7 +499,7 @@ Which has the best risk/reward?"
 
 Before EVERY investment:
 
-- [ ] Analyzed on Luna402
+- [ ] Analyzed on NECRORA
 - [ ] Risk score acceptable
 - [ ] No critical red flags
 - [ ] Liquidity checked and acceptable
@@ -545,7 +545,7 @@ If ANY checkbox fails, reconsider or skip.
 
 **Resources:**
 
-- Luna402 documentation
+- NECRORA documentation
 - Crypto Twitter
 - Trading communities
 - Educational content
@@ -579,7 +579,7 @@ If ANY checkbox fails, reconsider or skip.
 
 ## Remember
 
-1. **Not Financial Advice**: Luna402 provides analysis, not recommendations
+1. **Not Financial Advice**: NECRORA provides analysis, not recommendations
 2. **High Risk Asset Class**: Crypto is extremely volatile
 3. **Scams Are Common**: Always be skeptical
 4. **Most Tokens Fail**: More losers than winners
@@ -597,4 +597,5 @@ If ANY checkbox fails, reconsider or skip.
 
 ---
 
-**Put these into practice**: Visit [luna402.xyz](https://luna402.xyz) and start analyzing smarter!
+**Put these into practice**: Visit [necroralabs.xyz](https://necroralabs.xyz) and start analyzing smarter!
+
