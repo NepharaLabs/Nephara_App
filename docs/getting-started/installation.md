@@ -115,9 +115,9 @@ If the chat interface doesn't respond:
 
 If you encounter any issues accessing Necorna:
 
-- **Email Support**: [support@Necornaxyz.xyz](mailto:support@Necroraxyz.xyz)
+- **Email Support**: [support@Necornaxyz.xyz](mailto:support@Necroralabs.xyz)
 - **Discord Community**: [Join our Discord](https://discord.gg/Necrora)
-- **X**: [@Necornaxyzxyz](https://x.com/Necroraxyzxyz)
+- **X**: [@Necornaxyzxyz](https://x.com/NecroraLabs)
 - **FAQ**: Check our [Frequently Asked Questions](../appendix/faq.md)
 
 ## Next Steps
