@@ -1,12 +1,12 @@
 # Smart Contracts Architecture
 
-necrona's autonomous payment system is powered by three core smart contracts that work together to enable secure, transparent, and autonomous transactions.
+NECRORA's autonomous payment system is powered by three core smart contracts that work together to enable secure, transparent, and autonomous transactions.
 
 ## Contract Overview
 
 ```
 ┌─────────────────────────────────────┐
-│        Necrona Ecosystem          │
+│        NECRORA Ecosystem          │
 ├─────────────────────────────────────┤
 │  User Interface (Next.js App)       │
 ├─────────────────────────────────────┤
@@ -475,7 +475,7 @@ X402Registry: 0x...
 
 All contracts are open source:
 
-- GitHub: [github.com/NecronaLabs](https://github.com/NecronaLabs)
+- GitHub: [github.com/NECRORALabs](https://github.com/NECRORALabs)
 - License: MIT
 - Folder: `/contracts`
 
@@ -487,3 +487,4 @@ All contracts are open source:
 - [API Reference](../api-reference/chat.md)
 
 ---
+
