@@ -649,11 +649,11 @@ If your issue isn't listed here:
    - Vercel logs (if deployed)
 
 2. **Search GitHub Issues**:
-   - [Existing issues](https://github.com/yourusername/NECRORA/issues)
+   - [Existing issues](https://github.com/yourusername/NEPHARA/issues)
    - Someone may have solved it
 
 3. **Ask for help**:
-   - [Open an issue](https://github.com/yourusername/NECRORA/issues/new)
+   - [Open an issue](https://github.com/yourusername/NEPHARA/issues/new)
    - Include error messages and logs
 
 4. **Read related docs**:
@@ -663,6 +663,7 @@ If your issue isn't listed here:
 
 ---
 
-**Still stuck?** [Open an issue](https://github.com/yourusername/NECRORA/issues) with detailed information and we'll help you out!
+**Still stuck?** [Open an issue](https://github.com/yourusername/NEPHARA/issues) with detailed information and we'll help you out!
+
 
 
