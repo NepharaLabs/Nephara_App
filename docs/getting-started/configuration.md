@@ -1,10 +1,10 @@
 # Platform Configuration
 
-NECRORA is a fully managed, cloud-based platform. There are no configuration files or settings to manage - everything is optimized and ready to use out of the box.
+NEPHARA is a fully managed, cloud-based platform. There are no configuration files or settings to manage - everything is optimized and ready to use out of the box.
 
-## About NECRORA Platform
+## About NEPHARA Platform
 
-NECRORA runs on a sophisticated infrastructure designed for:
+NEPHARA runs on a sophisticated infrastructure designed for:
 
 - **High Availability**: 99.9% uptime guarantee
 - **Global Performance**: Distributed across multiple regions
@@ -39,7 +39,7 @@ This rate limiting ensures:
 
 ### Data Sources
 
-NECRORAaggregates data from multiple sources:
+NEPHARAaggregates data from multiple sources:
 
 - **DexScreener**: Real-time DEX trading data
 - **CoinGecko**: Market cap and price information
@@ -51,13 +51,13 @@ All data sources are continuously monitored and updated to ensure accuracy.
 
 ## Browser Settings
 
-For the best experience with NECRORA:
+For the best experience with NEPHARA:
 
 ### Recommended Browser Settings
 
 1. **JavaScript**: Must be enabled
 2. **Cookies**: Allow for session management
-3. **Pop-ups**: Allow from NECRORA domain
+3. **Pop-ups**: Allow from NEPHARA domain
 4. **Auto-fill**: Can be enabled for convenience
 
 ### Performance Optimization
@@ -68,7 +68,7 @@ For the best experience with NECRORA:
 
 ### Privacy Settings
 
-NECRORA respects your privacy:
+NEPHARA respects your privacy:
 
 - No tracking cookies
 - No personal data collection
@@ -88,7 +88,7 @@ Recommended resolutions:
 
 ### Color Mode
 
-NECRORA features:
+NEPHARA features:
 
 - **Dark Theme**: Default futuristic dark interface
 - **High Contrast**: Optimized for readability
@@ -96,7 +96,7 @@ NECRORA features:
 
 ## Accessibility
 
-NECRORA is designed to be accessible:
+NEPHARA is designed to be accessible:
 
 - **Keyboard Navigation**: Full keyboard support
 - **Screen Readers**: Compatible with major screen readers
@@ -114,7 +114,7 @@ Expected performance metrics:
 
 ## Security Features
 
-NECRORAincludes built-in security:
+NEPHARAincludes built-in security:
 
 - **HTTPS Encryption**: All communications encrypted
 - **Prompt Injection Protection**: Prevents manipulation attempts
@@ -126,13 +126,13 @@ NECRORAincludes built-in security:
 
 Check platform status:
 
-- **Uptime Monitor**: [status.NECRORAlabs.tech](https://status.NECRORAlabs.tech)
+- **Uptime Monitor**: [status.NEPHARAlabs.tech](https://status.NEPHARAlabs.tech)
 - **Performance Metrics**: Real-time on homepage
 - **Maintenance Notifications**: Announced on X
 
 ## Regional Availability
 
-NECRORA is available globally with optimized performance in:
+NEPHARA is available globally with optimized performance in:
 
 - **North America**: US, Canada
 - **Europe**: EU countries, UK
@@ -166,7 +166,7 @@ Currently supported:
 
 ## Mobile App
 
-Currently, NECRORAis web-based only:
+Currently, NEPHARAis web-based only:
 
 - Fully responsive mobile web interface
 - Native mobile apps: Coming in future updates
@@ -174,7 +174,7 @@ Currently, NECRORAis web-based only:
 
 ## Fair Usage Policy
 
-NECRORA is designed for cryptocurrency analysis. We ask users to:
+NEPHARA is designed for cryptocurrency analysis. We ask users to:
 
 - Use the platform for legitimate research
 - Respect the rate limiting
@@ -209,6 +209,7 @@ For technical support or questions:
 ---
 
 **Questions about the platform?** Check our [FAQ](../appendix/faq.md) for answers to common questions.
+
 
 
 
