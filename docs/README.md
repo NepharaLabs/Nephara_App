@@ -1,4 +1,4 @@
-# Welcome to NecroraLabs Documentation
+# Welcome to NepharaLabs Documentation
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Powered-green?style=for-the-badge" alt="AI Powered">
@@ -9,9 +9,9 @@
 
 ## Overview
 
-**NecroraLabs** is an autonomous AI agent that handles **privacy-preserving payments** on your behalf using the x402 protocol. It enables you to access paid APIs, services, and digital resources without manual intervention—just tell Necrora what you need, and the agent handles the payment automatically through an Opus/ASCII-styled interface on top of the x402 grid.
+**NEPHARALabs** is an autonomous AI agent that handles **privacy-preserving payments** on your behalf using the x402 protocol. It enables you to access paid APIs, services, and digital resources without manual intervention—just tell NEPHARA what you need, and the agent handles the payment automatically through an Opus/ASCII-styled interface on top of the x402 grid.
 
-> Utility token: **$NECRORA** – used to pay for services and power the ecosystem.
+> Utility token: **$NEPHARA** – used to pay for services and power the ecosystem.
 
 ### Key Features
 
@@ -39,7 +39,7 @@ Learn more at [x402.org](https://x402.org) and [x402.gitbook.io](https://x402.gi
 
 ## Getting Started
 
-Ready to use autonomous AI payments with $Necrora? Choose your path:
+Ready to use autonomous AI payments with $NEPHARA? Choose your path:
 
 1. **[Quick Start](getting-started/quick-start.md)** – Get up and running in 5 minutes  
 2. **[Installation Guide](getting-started/installation.md)** – Detailed setup instructions  
@@ -51,7 +51,7 @@ This documentation is organized into the following sections:
 
 ### Getting Started
 
-- [Quick Start](getting-started/quick-start.md) – Start using NecroraLabs in minutes  
+- [Quick Start](getting-started/quick-start.md) – Start using NEPHARALabs in minutes  
 - [Installation](getting-started/installation.md) – Detailed installation steps  
 - [Configuration](getting-started/configuration.md) – Setup wallets and spending limits  
 
@@ -62,21 +62,21 @@ This documentation is organized into the following sections:
 - [Resources](appendix/resources.md) – External links and tools  
 - [Changelog](appendix/changelog.md) – Version history  
 
-## How NecroraLabs Works
+## How NEPHARALabs Works
 
 ### The Payment Flow
 
 1. **You Make a Request**  
-   - Tell NecroraLabs in natural language what service you need  
+   - Tell NEPHARALabs in natural language what service you need  
    - Example: “Get me the latest weather data from WeatherAPI”
 
-2. **NecroraLabs Detects Payment Required**  
+2. **NEPHARALabs Detects Payment Required**  
    - Service returns HTTP 402 (Payment Required)  
-   - NecroraLabs reads the x402 payment details from the response  
+   - NEPHARALabs reads the x402 payment details from the response  
 
 3. **Autonomous Payment Processing**  
-   - NecroraLabs checks your spending limits  
-   - Submits blockchain transaction automatically using $Necrora (or supported assets)  
+   - NEPHARALabs checks your spending limits  
+   - Submits blockchain transaction automatically using $NEPHARA (or supported assets)  
    - Waits for payment confirmation (~2 seconds)  
 
 4. **Instant Access**  
@@ -86,7 +86,7 @@ This documentation is organized into the following sections:
 
 ## Technology Stack
 
-NecroraLabs is built with modern web technologies and blockchain infrastructure:
+NEPHARALabs is built with modern web technologies and blockchain infrastructure:
 
 - **Frontend**: Next.js 16 (App Router), Tailwind CSS 4, Framer Motion  
 - **AI**: Vercel AI SDK with Google Gemini  
@@ -113,7 +113,7 @@ NecroraLabs is built with modern web technologies and blockchain infrastructure:
 
 ## Smart Contracts
 
-NecroraLabs includes a complete suite of Solidity smart contracts:
+NEPHARALabs includes a complete suite of Solidity smart contracts:
 
 - **PaymentGateway.sol** – Core payment processing  
 - **SpendingLimits.sol** – User-defined spending controls  
@@ -125,13 +125,13 @@ See the [contracts folder](../contracts/) for full source code and tests.
 
 Join our growing community:
 
-- **Email Support**: [support@Necroralabs.xyz](mailto:support@Necroralabs)  
-- **X**: [@Necroralabs](https://x.com/Necrora_labs)    
-- **GitHub**: [Report issues](ttps://github.com/NecroraLabs/)  
+- **Email Support**: [support@NEPHARAlabs.xyz](mailto:support@NEPHARAlabs)  
+- **X**: [@NEPHARAlabs](https://x.com/NEPHARA_labs)    
+- **GitHub**: [Report issues](ttps://github.com/NEPHARALabs/)  
 
 ## Security & Safety
 
-NecroraLabs takes your security seriously:
+NEPHARALabs takes your security seriously:
 
 - ✅ Set spending limits to prevent overspending  
 - ✅ All transactions are transparent and on-chain  
@@ -162,7 +162,7 @@ See our Contributing Guide for details.
 
 ## License
 
-NecroraLabs is open source and available under the MIT License.
+NEPHARALabs is open source and available under the MIT License.
 
 ## External Resources
 
@@ -174,5 +174,6 @@ NecroraLabs is open source and available under the MIT License.
 ---
 
 **Ready to dive in?** Start with the [Quick Start Guide](getting-started/quick-start.md) →
+
 
 
