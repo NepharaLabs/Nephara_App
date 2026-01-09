@@ -1,10 +1,10 @@
 # Platform Infrastructure
 
-NECRORA is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
+NEPHARA is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
 
 ## Cloud Infrastructure
 
-NECRORA operates on enterprise-grade cloud infrastructure designed for:
+NEPHARA operates on enterprise-grade cloud infrastructure designed for:
 
 ### High Availability
 
@@ -143,9 +143,9 @@ Our deployment follows industry best practices:
 
 ### Public Status Page
 
-Monitor NECRORA's status in real-time:
+Monitor NEPHARA's status in real-time:
 
-- **URL**: [status.NECRORAlabs.tech](https://status.NECRORAlabs.tech)
+- **URL**: [status.NEPHARAlabs.tech](https://status.NEPHARAlabs.tech)
 - **Uptime History**: 30-day uptime statistics
 - **Incident Reports**: Transparent incident communication
 - **Scheduled Maintenance**: Advance notification of maintenance
@@ -213,5 +213,6 @@ Coming improvements:
 ---
 
 **Want to know more?** Check our [FAQ](../appendix/faq.md) or contact our support team.
+
 
 
