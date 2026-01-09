@@ -1,6 +1,6 @@
 # AI Chat Interface
 
-The heart of NECRORA is its intelligent chat interface, powered by our proprietary AI model trained on 72,000+ cryptocurrency tokens. This guide explains how the chat interface works and how to get the most out of your conversations with the AI oracle.
+The heart of NEPHARA is its intelligent chat interface, powered by our proprietary AI model trained on 72,000+ cryptocurrency tokens. This guide explains how the chat interface works and how to get the most out of your conversations with the AI oracle.
 
 ## Overview
 
@@ -15,7 +15,7 @@ The central chat area displays:
 - **Your Messages**: Shown on the right with a distinct background
 - **AI Responses**: Streamed in real-time on the left with markdown formatting
 - **Timestamps**: Track when messages were sent
-- **Loading Indicators**: "NECRORA is thinking..." while processing
+- **Loading Indicators**: "NEPHARA is thinking..." while processing
 
 ### Message Input
 
@@ -438,6 +438,7 @@ If cooldown seems incorrect:
 - **AI Training**: Learn about [our AI model](../getting-started/ai-model-training.md)
 
 ---
+
 
 
 
