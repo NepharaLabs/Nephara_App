@@ -1,12 +1,12 @@
 # Using the Chat Interface
 
-This comprehensive guide will help you master NECRORA's chat interface and get the most accurate, useful insights from your interactions with the AI oracle.
+This comprehensive guide will help you master NEPHARA's chat interface and get the most accurate, useful insights from your interactions with the AI oracle.
 
 ## Getting Started
 
 ### Accessing the Chat
 
-1. Visit [necroralabs.xyz](https://necroralabs.xyz)
+1. Visit [nepharalabs.xyz](https://nepharalabs.xyz)
 2. Click "Launch App" on the homepage
 3. You'll be taken directly to the chat interface
 4. No registration or login required!
@@ -43,7 +43,7 @@ What are the trending memecoins on Solana today?
 
 The AI will:
 
-1. Show "NECRORA is thinking..."
+1. Show "NEPHARA is thinking..."
 2. Begin streaming the response
 3. Display formatted, detailed answer
 4. Complete in 5-20 seconds
@@ -547,5 +547,6 @@ Get perspective-specific insights.
 
 ---
 
-**Ready to chat?** Visit [necroralabs.xyz](https://necroralabs.xyz) and start your first conversation!
+**Ready to chat?** Visit [nepharalabs.xyz](https://nepharalabs.xyz) and start your first conversation!
+
 
