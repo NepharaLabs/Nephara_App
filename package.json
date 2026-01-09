@@ -1,8 +1,8 @@
 {
-  "name": "Necrora401",
+  "name": "Nephara401",
   "version": "1.0.0",
   "private": true,
-  "description": "Necrora Labs",
+  "description": "Nephara Labs",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -16,7 +16,7 @@
     "fix:all": "npm run lint:fix && npm run format"
   },
   "keywords": [],
-  "author": "Necroralabs@g",
+  "author": "Nepharalabs@g",
   "license": "ISC",
   "dependencies": {
     "@ai-sdk/google": "^2.0.44",
