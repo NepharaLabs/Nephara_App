@@ -1,16 +1,16 @@
 # Tips and Best Practices
 
-Master NECRORA and cryptocurrency analysis with these proven strategies, tips, and best practices from experienced users.
+Master NEPHARA and cryptocurrency analysis with these proven strategies, tips, and best practices from experienced users.
 
 ## General Principles
 
 ### 1. Always DYOR (Do Your Own Research)
 
-NECRORA is a powerful tool, but never your only source:
+NEPHARA is a powerful tool, but never your only source:
 
 ✅ **Do:**
 
-- Use NECRORA as your starting point
+- Use NEPHARA as your starting point
 - Cross-reference findings with blockchain explorers
 - Check social media and community channels
 - Verify contract addresses manually
@@ -59,7 +59,7 @@ Know when to sell BEFORE you buy:
 - Cut losses at stops
 - Exit if new red flags appear
 
-## Using NECRORA Effectively
+## Using NEPHARA Effectively
 
 ### Asking Better Questions
 
@@ -137,7 +137,7 @@ that compare to successful similar tokens?"
 
 ### Step 1: Initial Screening
 
-Ask NECRORA:
+Ask NEPHARA:
 
 ```
 "Quick risk assessment for [address]"
@@ -151,7 +151,7 @@ Ask NECRORA:
 
 ### Step 2: Deep Analysis
 
-Ask NECRORA:
+Ask NEPHARA:
 
 ```
 "Comprehensive analysis of [address] including
@@ -202,7 +202,7 @@ contract security, and comparison to similar tokens"
 
 - Set price alerts
 - Schedule check-ins
-- Monitor NECRORA for changes
+- Monitor NEPHARA for changes
 - Stay updated on project news
 - Be ready to exit
 
@@ -355,7 +355,7 @@ HIGH risk token: $10,000 × 5% / 7.5 = $67 max
 - Everyone has incentives
 - Many are paid promoters
 - Do your own research
-- Use NECRORA to verify
+- Use NEPHARA to verify
 
 ## Advanced Strategies
 
@@ -400,13 +400,13 @@ Sell 25% at 20x or let it ride
 - Still exposed to upside
 - Can't lose after first target
 
-### NECRORA + Chart Combo
+### NEPHARA + Chart Combo
 
 Combine AI analysis with technical analysis:
 
 **Process:**
 
-1. Use NECRORA for fundamental analysis
+1. Use NEPHARA for fundamental analysis
 2. Check chart for technical setup
 3. Both must align for entry
 4. Use technical for timing, AI for validation
@@ -424,7 +424,7 @@ Track related tokens:
 **Strategy:**
 
 ```
-Ask NECRORA:
+Ask NEPHARA:
 "Compare these three similar tokens:
 [token A], [token B], [token C]
 Which has the best risk/reward?"
@@ -439,7 +439,7 @@ Which has the best risk/reward?"
 
 ## Tools Integration
 
-### NECRORA + Blockchain Explorer
+### NEPHARA + Blockchain Explorer
 
 **Workflow:**
 
@@ -449,7 +449,7 @@ Which has the best risk/reward?"
 4. Confirm liquidity locks
 5. Review contract code
 
-### NECRORA + DexScreener
+### NEPHARA + DexScreener
 
 **Workflow:**
 
@@ -459,7 +459,7 @@ Which has the best risk/reward?"
 4. Verify liquidity numbers
 5. Watch for real-time changes
 
-### NECRORA + Social Media
+### NEPHARA + Social Media
 
 **Workflow:**
 
@@ -473,7 +473,7 @@ Which has the best risk/reward?"
 
 ### Morning Check (10 minutes)
 
-1. Check portfolio on NECRORA
+1. Check portfolio on NEPHARA
 2. Any risk score changes?
 3. New red flags appeared?
 4. Set watchlist for day
@@ -499,7 +499,7 @@ Which has the best risk/reward?"
 
 Before EVERY investment:
 
-- [ ] Analyzed on NECRORA
+- [ ] Analyzed on NEPHARA
 - [ ] Risk score acceptable
 - [ ] No critical red flags
 - [ ] Liquidity checked and acceptable
@@ -545,7 +545,7 @@ If ANY checkbox fails, reconsider or skip.
 
 **Resources:**
 
-- NECRORA documentation
+- NEPHARA documentation
 - Crypto Twitter
 - Trading communities
 - Educational content
@@ -579,7 +579,7 @@ If ANY checkbox fails, reconsider or skip.
 
 ## Remember
 
-1. **Not Financial Advice**: NECRORA provides analysis, not recommendations
+1. **Not Financial Advice**: NEPHARA provides analysis, not recommendations
 2. **High Risk Asset Class**: Crypto is extremely volatile
 3. **Scams Are Common**: Always be skeptical
 4. **Most Tokens Fail**: More losers than winners
@@ -597,5 +597,6 @@ If ANY checkbox fails, reconsider or skip.
 
 ---
 
-**Put these into practice**: Visit [necroralabs.xyz](https://necroralabs.xyz) and start analyzing smarter!
+**Put these into practice**: Visit [nepharalabs.xyz](https://nepharalabs.xyz) and start analyzing smarter!
+
 
